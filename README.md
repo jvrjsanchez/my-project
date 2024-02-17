@@ -7,7 +7,7 @@
 //But first let me lay out the details that uniquely describe what this project is all about. 
 
  */Hello*/
-// The inception of this project came to be special since it brings forth challenges along with advanced learning and ops! 
+//The inception of this project came to be special since it brings forth challenges along with advanced learning and ops! 
 
 # Description
 
